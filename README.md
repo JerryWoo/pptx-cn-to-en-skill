@@ -7,6 +7,8 @@ shrinks font sizes** when the English text would overflow a text box.
 It is designed for anyone who needs to turn a Chinese presentation (project proposals, product
 introductions, reports, decks) into an English version without manually re-fitting every text box.
 
+Tutorial Articles： https://mp.weixin.qq.com/s/ptTOnzA-hmKRC9gsuc87qg
+
 ## Features
 
 - **Full-slide translation** — covers slide body text, tables, SmartArt (`diagrams/data*.xml`),
